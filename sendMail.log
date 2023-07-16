@@ -1,0 +1,46 @@
+[2023-07-14T14:40:18.736Z] Sending email..., in the sendMail.js file
+[2023-07-14T14:40:20.885Z] Error sending email: Error: connect ECONNREFUSED ::1:587
+[2023-07-14T14:41:52.689Z] Sending email..., in the sendMail.js file
+[2023-07-14T14:41:52.694Z] Error sending email: Error: connect ECONNREFUSED ::1:587
+[2023-07-14T14:47:09.212Z] Sending email..., in the sendMail.js file
+[2023-07-14T14:47:30.413Z] Error sending email: Error: connect ETIMEDOUT 95.216.108.161:587
+[2023-07-14T14:48:45.127Z] Sending email..., in the sendMail.js file
+[2023-07-14T14:49:55.030Z] Error sending email: Error: Error upgrading connection with STARTTLS: 421 Timeout - closing connection
+[2023-07-14T14:55:03.307Z] Sending email..., in the sendMail.js file
+[2023-07-14T14:55:34.617Z] Error sending email: Error: Greeting never received
+[2023-07-14T15:10:41.704Z] Sending email..., in the sendMail.js file
+[2023-07-14T15:10:44.436Z] Email sent!
+[2023-07-15T23:14:33.965Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:14:36.193Z] Email sent!
+[2023-07-15T23:16:47.899Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:16:50.121Z] Email sent!
+[2023-07-15T23:17:25.634Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:17:27.730Z] Email sent!
+[2023-07-15T23:29:38.660Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:29:39.971Z] Error sending email: Error: No recipients defined
+[2023-07-15T23:33:48.633Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:33:49.510Z] Error sending email: Error: No recipients defined
+[2023-07-15T23:34:34.861Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:34:37.105Z] Email sent!
+[2023-07-15T23:36:36.220Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:36:38.641Z] Email sent!
+[2023-07-15T23:37:36.699Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:37:37.525Z] Error sending email: Error: No recipients defined
+[2023-07-15T23:40:02.704Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:40:04.879Z] Email sent!
+[2023-07-15T23:48:39.630Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:48:39.677Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:48:39.669Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:48:39.683Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:48:42.221Z] Email sent!
+[2023-07-15T23:48:42.516Z] Email sent!
+[2023-07-15T23:48:42.675Z] Email sent!
+[2023-07-15T23:48:42.939Z] Email sent!
+[2023-07-15T23:49:08.841Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:49:11.044Z] Email sent!
+[2023-07-15T23:51:31.320Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:51:31.331Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:51:33.536Z] Email sent!
+[2023-07-15T23:51:33.756Z] Email sent!
+[2023-07-15T23:55:15.496Z] Sending email..., in the sendMail.js file
+[2023-07-15T23:55:17.455Z] Email sent!
